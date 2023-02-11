@@ -7,7 +7,7 @@ The code mentioned above has been refactored:
 * CSS selectors have been updated accordingly as well;
 * Added `alt` attributes to `img`es;
 * Heading attributes have been refactored in sequential order;
-* `title` element value have been changed.
+* `title` element value has been changed.
 
 ### Let's code :)
 #### Thank you for reviewing my code!
